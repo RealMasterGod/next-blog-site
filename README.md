@@ -1,6 +1,10 @@
 # Demo Link
 https://next-blog-site-git-main-realmastergods-projects.vercel.app/
 
+# Login credentials
+1. ADMIN: username = admin, password = secret
+2. NORMAL USER: username = test, password = secret (or you may create a new user if you want or login through github :) )
+
 # Instruction to set up locally
 - Clone this repo.
 - Create a .env.local file in root directory.
@@ -17,3 +21,4 @@ https://next-blog-site-git-main-realmastergods-projects.vercel.app/
   ```bash
   npm install && npm run dev
   ```
+  
