@@ -16,7 +16,7 @@ const About = () => {
         </h1>
         <p className={styles.desc}>
           We create digital ideas that are bigger, bolder, braver and better. We
-          believe in good ideas flexibility and precision We're world's Our
+          believe in good ideas flexibility and precision We&apos;re world&apos;s Our
           Special Team best consulting & finance solution provider. Wide range
           of web and software development services.
         </p>
